@@ -1,4 +1,4 @@
-# medicine app - [live site](https://medicine-awv9hh1h4-isprutfromua.vercel.app)
+# medicine app - [live site](https://medicine-app-tau.vercel.app/)
 
 ## Developing
 
