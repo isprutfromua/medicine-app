@@ -21,4 +21,14 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+### Used
+
+- [SvelteKit](https://kit.svelte.dev/)
+- [Supabase](https://supabase.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Cloudinary](https://cloudinary.com/)
+- [svelte-toast](https://github.com/zerodevx/svelte-toast)
+
+Deployed with [Vercel](https://vercel.com/)
